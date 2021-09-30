@@ -1,7 +1,7 @@
 # medium-unlocked
 Read unlimited medium articles without membership subscription.
 <br>
-This [Youtube] (https://www.youtube.com/watch?v=vGxpOBnLzp8)
+This [Youtube](https://www.youtube.com/watch?v=vGxpOBnLzp8)
 video can help you in setting up, hardly takes a min.
 
 ```
