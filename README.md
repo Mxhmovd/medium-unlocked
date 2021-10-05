@@ -4,7 +4,7 @@ Read unlimited medium articles without membership subscription.
 This [Youtube](https://www.youtube.com/watch?v=vGxpOBnLzp8)
 video can help you in setting up, hardly takes a min.
 
-```
-There is a problem with Medium, as it only allows users (non-members) to read/access 5 premium articles per month.
-I had to find some way to access them without upgrading my account i.e I didn’t want to pay, simply said.
-```
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![(1)](https://user-images.githubusercontent.com/32795892/136011690-104dc4ef-b88c-4b23-bde3-705be0a309d9.png)  |  ![(2)](https://user-images.githubusercontent.com/32795892/136011697-758c5556-449e-419c-975d-6b8603450e25.png)
